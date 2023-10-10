@@ -1,7 +1,3 @@
 # AirportPassportProgram
 
-This is a support project for Lab 5.
-
-It is going to be great!
-
-Really, really great!
+Please edit this file by adding your name on a new line.
