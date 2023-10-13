@@ -8,3 +8,4 @@ Adeel Sultan
 Gerald Vinyeta
 Alexsa Walczak
 Alexandra Wolf
+Isaac Schneider
