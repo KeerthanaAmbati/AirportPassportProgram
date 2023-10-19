@@ -3,7 +3,6 @@
 Please edit this file by adding your name on a new line.
 Ethan Lenz
 Alden Sprackling
-Keith Thoong
 Gerald Vinyeta
 Alexsa Walczak
 Alexandra Wolf
@@ -16,3 +15,4 @@ Mitchell Bricco
 Keerthana Ambati
 Alex Ceithamer
 Jordyn Henrich
+Keith Thoong
