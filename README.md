@@ -15,6 +15,7 @@ Mitchell Bricco
 Alex Ceithamer
 Jordyn Henrich
 Keith Thoong
+Samuel Ayoade
 Tyler Kamholz
 Danial Moczynski
 Quinton Phalin
