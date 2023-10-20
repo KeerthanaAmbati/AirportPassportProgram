@@ -1,0 +1,39 @@
+Version 1.0
+Version 2.0
+Version 3.0
+Version 4.0
+Version 5.0
+commit 4cd099cc8186290941e7f111dcaaf4f58dd1d4db (HEAD -> KeithThoongBranch, origin/KeithThoongBranch)
+Author: Keith Thoong <thoonk78@uwosh.edu>
+Date:   Wed Oct 18 20:47:19 2023 -0500
+
+    v5.0
+
+commit 9a65eccc24998af6a95f2bfac28ed329c588edc0
+Author: Keith Thoong <thoonk78@uwosh.edu>
+Date:   Wed Oct 18 20:46:58 2023 -0500
+
+    v4.0
+:
+
+* 08875ae (HEAD -> main, origin/main, origin/HEAD) v3.0
+* 258efc8 v2.0
+* 144ce44 v1.0
+* 56300a4 Updated by Keith Thoong
+* 1278b89 Updated by Jordyn Henrich
+*   66e71d2 Resolve Merge Conflicts
+|\  
+| *   7c68bb1 Merge remote-tracking branch 'origin/main'
+| |\
+| | * 34929ae (origin/KeerthanaAmbatiBranch) v5.o
+| | * 31fb01b v4.o
+* a85bb35 Updated by Ethan Lenz
+* 311d03b Update README.md
+*   5f087e3 Merge pull request #2 from mprogers/main
+|\
+| * 8c30bb3 Added one ore line on Tuesday
+| * 2703a3c Changed README.md
+|/
+* 0fd03f9 Create README.md
+* c071ec2 Deleted AppShell.xaml and .xaml.cs, as they were not needed here
+* af638bc Working project, no comments (by design), to be used as part of Lab 5
