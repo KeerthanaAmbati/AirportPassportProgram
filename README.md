@@ -12,9 +12,15 @@ Keenan Marco
 Olivia Ozbaki
 Ian Hawley
 Mitchell Bricco
-Keerthana Ambati
 Alex Ceithamer
 Jordyn Henrich
 Keith Thoong
 Tyler Kamholz
+Samuel Ayoade
+Tyler Kamholz
+Danial Moczynski
+Quinton Phalin
+Keerthana Ambati
+Michael Meisenburg
+Matthew Bertello
 Evan Olson
