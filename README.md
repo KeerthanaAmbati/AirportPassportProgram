@@ -3,7 +3,6 @@
 Please edit this file by adding your name on a new line.
 Ethan Lenz
 Alden Sprackling
-Keith Thoong
 Gerald Vinyeta
 Alexsa Walczak
 Alexandra Wolf
@@ -13,6 +12,14 @@ Keenan Marco
 Olivia Ozbaki
 Ian Hawley
 Mitchell Bricco
-Keerthana Ambati
 Alex Ceithamer
+Jordyn Henrich
+Keith Thoong
+Samuel Ayoade
+Tyler Kamholz
+Danial Moczynski
+Quinton Phalin
+Keerthana Ambati
+Michael Meisenburg
+Matthew Bertello
 Joshua Hill
