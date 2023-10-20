@@ -23,4 +23,5 @@ Quinton Phalin
 Keerthana Ambati
 Michael Meisenburg
 Matthew Bertello
+Joshua Hill
 Evan Olson
