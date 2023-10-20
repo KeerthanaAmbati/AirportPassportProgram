@@ -19,3 +19,4 @@ Keith Thoong
 Tyler Kamholz
 Danial Moczynski
 Quinton Phalin
+Kaia Thern
